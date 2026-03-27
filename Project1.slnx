@@ -3,6 +3,7 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
+  <Project Path="Practice/Practice.vcxproj" Id="080877d2-0101-487a-8046-80cecb350685" />
   <Project Path="Project1/Project1.vcxproj" Id="f4bfe5da-c2fd-475b-919a-035ac34621d2" />
   <Project Path="Project2/Project2.vcxproj" Id="38742f71-012e-4224-937c-447f57f7ca6e" />
   <Project Path="Project3/Project3.vcxproj" Id="20ab0954-ecb7-4c4b-8e08-e36cba62a7f7" />
