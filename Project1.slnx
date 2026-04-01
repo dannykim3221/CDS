@@ -4,5 +4,8 @@
     <Platform Name="x86" />
   </Configurations>
   <Project Path="3wProject1/3wProject1.vcxproj" Id="b4eae13d-1078-40a8-956d-38913a80627a" />
-  <Project Path="Practice/Practice.vcxproj" Id="080877d2-0101-487a-8046-80cecb350685" />
+  <Project Path="4wProject1/4wProject1.vcxproj" Id="9d1c00c0-9093-4703-b882-ffd22ce008b3" />
+  <Project Path="4wProject2/4wProject2.vcxproj" Id="122774f8-d2c1-4d5a-8da5-966485277fb2" />
+  <Project Path="4wProject3/4wProject3.vcxproj" Id="e318a647-3999-4b1a-a48e-bd003f614a75" />
+  <Project Path="4wProject4/4wProject4.vcxproj" Id="5c9fa153-7555-4a93-acd7-64fdb8e059d9" />
 </Solution>
