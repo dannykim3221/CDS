@@ -8,4 +8,6 @@
   <Project Path="4wProject2/4wProject2.vcxproj" Id="122774f8-d2c1-4d5a-8da5-966485277fb2" />
   <Project Path="4wProject3/4wProject3.vcxproj" Id="e318a647-3999-4b1a-a48e-bd003f614a75" />
   <Project Path="4wProject4/4wProject4.vcxproj" Id="5c9fa153-7555-4a93-acd7-64fdb8e059d9" />
+  <Project Path="5wProject1/5wProject1.vcxproj" Id="cfc12989-5150-412d-a24f-a20dfeef3461" />
+  <Project Path="5wProject2/5wProject2.vcxproj" Id="fb8d88c3-e1eb-4d26-8a71-7402256b9179" />
 </Solution>
